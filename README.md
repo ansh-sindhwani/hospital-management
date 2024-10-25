@@ -1,9 +1,3 @@
-# too_much_data Group Project Phase 4
-
-- **Gautam Ghai 2020101023**
-- **Aditya Malhotra 2020101052**
-- **Karmanjyot Singh 2020101062**
-
 ## How to run script
 
 Run the following from the project folder
